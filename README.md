@@ -1,4 +1,4 @@
-# Bike_sharing_Assignment
+# Bike_Sharing_Assignment
 In this assignment we need to build a model for the Prediction of demand for shared bikes.
 
 ## Problem Statement
